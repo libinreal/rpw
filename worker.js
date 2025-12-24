@@ -258,6 +258,9 @@ function noCacheHeaders() {
  * 返回根目录的 HTML - 使用 Tailwind CSS Theme
  */
 function getRootHtml() {
+  return 'rpw works!';
+}
+/*function getRootHtml() {
   return `<!DOCTYPE html>
 <html lang="zh-CN" class="h-full">
 <head>
@@ -532,3 +535,4 @@ function getRootHtml() {
 </body>
 </html>`;
 }
+*/
